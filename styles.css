@@ -1,0 +1,40 @@
+.home {
+    position: relative;
+    height: 100vh;
+}
+
+.home-wrapper {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+img {
+    max-width: 100%;
+    width: 150px;
+}
+
+.about {
+    position: relative;
+    height: 100vh;
+
+}
+
+.about-wrapper {
+    position: absolute;
+
+}
+
+body {
+    font-family: 'Hind Madurai', sans-serif;}
+
+
+.navbar-brand {
+    font-family: 'Rampart One', cursive;
+}
+
+.pastEmployers img {
+    max-width: 100%;
+    width: 20px;
+}
+
