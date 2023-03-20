@@ -1,12 +1,12 @@
-.home {
+.home, .contact {
     position: relative;
     height: 100vh;
 }
 
-.home-wrapper {
+.home-wrapper, .contact-wrapper {
     position: absolute;
-    top: 30%;
-    left: 10%;
+    top: 35%;
+    left: 30%;
 }
 
 img {
@@ -27,3 +27,8 @@ body {
     width: 20px;
 }
 
+@media(max-width: 765px) {
+.home-wrapper, .contact-wrapper {
+    left: 0%;
+}
+}
