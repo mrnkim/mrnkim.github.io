@@ -14,7 +14,7 @@ img {
     width: 150px;
 }
 
-.about {
+/* .about {
     position: relative;
     height: 100vh;
 
@@ -22,8 +22,10 @@ img {
 
 .about-wrapper {
     position: absolute;
+  margin: auto;
 
-}
+
+} */
 
 body {
     font-family: 'Hind Madurai', sans-serif;}
